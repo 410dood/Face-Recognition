@@ -34,7 +34,7 @@ if you get an error try:
 
 - Depending on how python is configured on your machine, you may need to use `python3` and `pip3` instead of `python` and `pip` when running the scripts
 
-
+![alt text](https://github.com/410dood/Face-Recognition/blob/master/demo1.gif?raw=true "Logo Title Text 1")
 
 ##### Credit to:
 Anirban from TheCodacus. Link: http://thecodacus.com/
