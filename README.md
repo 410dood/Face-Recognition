@@ -26,6 +26,10 @@ Add additional people
 1. Change the variable "face_id = 1" to "face_id = 2" in (face_datasets.py: line 23) and re-run `python face_datasets.py`
 2. `python training.py`
 3. `python face_recognition.py`
+4. You can change the 'Id' to match user's name (face_recognition: line 62):         
+        ex). `if (Id == 1):
+            Id = "User1"` to `if (Id == 1):
+            Id = "Bill"`
 
 ## TroubleShooting
 if you get an error try:
